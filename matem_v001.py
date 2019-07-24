@@ -2,6 +2,8 @@ import random
 import os
 import datetime
 
+
+#print
 #print('Привет! Как тебя зовут?')
 name = input('Привет! Как тебя зовут? ')
 print('\nПривет ' + name +'! Давай позанимаемся математикой.')
